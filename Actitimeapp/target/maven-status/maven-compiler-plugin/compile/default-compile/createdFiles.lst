@@ -1,0 +1,12 @@
+actitime\elementRepository\LogoutLocators.class
+actitime\elementRepository\GeneralSettingsLocators.class
+actitime\elementRepository\TasksLocators.class
+actitime\elementRepository\TpesofWorksLocators.class
+actitime\genericLib\DataUtility.class
+actitime\elementRepository\TimeTrakLocators.class
+actitime\genericLib\BaseClass.class
+actitime\elementRepository\LoginLocators.class
+actitime\elementRepository\SettingLocators.class
+actitime\elementRepository\curTasksLocators.class
+actitime\genericLib\CommonUtility.class
+actitime\genericLib\ListenerImplementation.class

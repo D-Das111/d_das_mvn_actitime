@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Are you sure you want to cancel the Type of Work creation?]]>
+    </line>
+    <line>
+      <![CDATA[Jethalal43]]>
+    </line>
+    <line>
+      <![CDATA[MODIFICATIONS NOT SAVED]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-05T23:26:41 IST" name="Surefire suite" finished-at="2023-07-05T23:27:28 IST" duration-ms="46904">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T23:26:41 IST" name="Surefire test" finished-at="2023-07-05T23:27:28 IST" duration-ms="46904">
+      <class name="actitime.testScript.CustomerCreationTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:actitime.testScript.CustomerCreationTest@7880cdf3]" started-at="2023-07-05T23:26:57 IST" name="launchBrowser" finished-at="2023-07-05T23:26:59 IST" duration-ms="1571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:actitime.testScript.CustomerCreationTest@7880cdf3]" started-at="2023-07-05T23:26:59 IST" name="login" finished-at="2023-07-05T23:27:05 IST" duration-ms="6019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createCustomer()[pri:0, instance:actitime.testScript.CustomerCreationTest@7880cdf3]" started-at="2023-07-05T23:27:05 IST" name="createCustomer" finished-at="2023-07-05T23:27:12 IST" duration-ms="7493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Jethalal43]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actitime.testScript.CustomerCreationTest@7880cdf3]" started-at="2023-07-05T23:27:12 IST" name="logout" finished-at="2023-07-05T23:27:14 IST" duration-ms="1908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:actitime.testScript.CustomerCreationTest@7880cdf3]" started-at="2023-07-05T23:27:14 IST" name="close" finished-at="2023-07-05T23:27:14 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- actitime.testScript.CustomerCreationTest -->
+      <class name="actitime.testScript.DropDownTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:actitime.testScript.DropDownTest@5be6e01c]" started-at="2023-07-05T23:27:14 IST" name="launchBrowser" finished-at="2023-07-05T23:27:16 IST" duration-ms="1486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:actitime.testScript.DropDownTest@5be6e01c]" started-at="2023-07-05T23:27:16 IST" name="login" finished-at="2023-07-05T23:27:22 IST" duration-ms="5737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="generalSettings()[pri:0, instance:actitime.testScript.DropDownTest@5be6e01c]" started-at="2023-07-05T23:27:22 IST" name="generalSettings" finished-at="2023-07-05T23:27:27 IST" duration-ms="5796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[MODIFICATIONS NOT SAVED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- generalSettings -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actitime.testScript.DropDownTest@5be6e01c]" started-at="2023-07-05T23:27:27 IST" name="logout" finished-at="2023-07-05T23:27:27 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:actitime.testScript.DropDownTest@5be6e01c]" started-at="2023-07-05T23:27:27 IST" name="close" finished-at="2023-07-05T23:27:28 IST" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- actitime.testScript.DropDownTest -->
+      <class name="actitime.testScript.AlertHandlingTest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:actitime.testScript.AlertHandlingTest@47d90b9e]" started-at="2023-07-05T23:26:41 IST" name="launchBrowser" finished-at="2023-07-05T23:26:43 IST" duration-ms="2707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:actitime.testScript.AlertHandlingTest@47d90b9e]" started-at="2023-07-05T23:26:44 IST" name="login" finished-at="2023-07-05T23:26:49 IST" duration-ms="5961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="alertHandle()[pri:0, instance:actitime.testScript.AlertHandlingTest@47d90b9e]" started-at="2023-07-05T23:26:49 IST" name="alertHandle" finished-at="2023-07-05T23:26:57 IST" duration-ms="7017" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Are you sure you want to cancel the Type of Work creation?]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- alertHandle -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:actitime.testScript.AlertHandlingTest@47d90b9e]" started-at="2023-07-05T23:26:57 IST" name="logout" finished-at="2023-07-05T23:26:57 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="close()[pri:0, instance:actitime.testScript.AlertHandlingTest@47d90b9e]" started-at="2023-07-05T23:26:57 IST" name="close" finished-at="2023-07-05T23:26:57 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- actitime.testScript.AlertHandlingTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
